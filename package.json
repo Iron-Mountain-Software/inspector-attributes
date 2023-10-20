@@ -37,7 +37,7 @@
     },
     {
       "type": "npm",
-      "url": null
+      "url": "https://www.npmjs.com/package/com.iron-mountain.inspector-attributes"
     }
   ],
   "dependencies": {}
