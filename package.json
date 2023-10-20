@@ -1,0 +1,44 @@
+{
+  "name": "com.iron-mountain.inspector-attributes",
+  "version": "1.0.0",
+  "displayName": "Inspector Attributes",
+  "author": "Chris Monteferrante <ludachrismonte@gmail.com>",
+  "unity": "2019.1",
+  "type": "tool",
+  "license": "MIT",
+  "homepage": "https://github.com/Iron-Mountain-Software/inspector-attributes#readme",
+  "bugs": {
+    "type": "git",
+    "url": "https://github.com/Iron-Mountain-Software/inspector-attributes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iron-Mountain-Software/inspector-attributes.git"
+  },
+  "description": "Custom attribute that extend basic inspector functionality.",
+  "useCases": [
+    "Make a field read-only",
+    "Show a field conditionally based on other fields."
+  ],
+  "directions": null,
+  "keywords": [
+    "attributes",
+    "tools",
+    "editor"
+  ],
+  "sources": [
+    {
+      "type": "itch.io",
+      "url": "https://iron-mountain.itch.io/inspector-attributes"
+    },
+    {
+      "type": "git",
+      "url": "https://github.com/Iron-Mountain-Software/inspector-attributes.git"
+    },
+    {
+      "type": "npm",
+      "url": null
+    }
+  ],
+  "dependencies": {}
+}
